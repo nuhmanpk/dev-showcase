@@ -17,6 +17,6 @@ Click the badge to check out the projects!"
 # VsCode 
 
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/nuhmanpk.superlogger.svg)](https://marketplace.visualstudio.com/items?itemName=nuhmanpk.superlogger)
-[![Downloads](https://img.shields.io/visual-studio-marketplace/d/nuhmanpk.superlogger.svg)](https://marketplace.visualstudio.com/items?itemName=nuhmanpk.superlogger)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/nuhmanpk.pyrosnippets.svg)](https://marketplace.visualstudio.com/items?itemName=nuhmanpk.pyrosnippets)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/nuhmanpk.nanometrics.svg)](https://marketplace.visualstudio.com/items?itemName=nuhmanpk.nanometrics)
   
